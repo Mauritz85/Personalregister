@@ -6,9 +6,9 @@ namespace StaffRegistry
     {
         private List<Employee> employees = new List<Employee>();
 
-        public void addEmployee(Employee e)
+        public void addEmployee(Employee employee)
         {
-            employees.Add(e);
+            employees.Add(employee);
         }
 
         public void printAll()
@@ -20,7 +20,7 @@ namespace StaffRegistry
 
             foreach (var employee in employees)
             {
-                Console.WriteLine($"Namn: {employee.Name} Lön: {employee.Salary}");
+                Console.WriteLine($"Namn: {employee.Name}, Lön: {employee.Salary}");
             }
         }
     }

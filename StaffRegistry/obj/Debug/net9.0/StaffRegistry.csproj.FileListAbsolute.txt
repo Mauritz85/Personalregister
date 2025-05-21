@@ -1,0 +1,15 @@
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry.deps.json
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry.runtimeconfig.json
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry.dll
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry.pdb
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.AssemblyInfoInputs.cache
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.AssemblyInfo.cs
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.csproj.CoreCompileInputs.cache
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.sourcelink.json
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.dll
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/refint/StaffRegistry.dll
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.pdb
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.genruntimeconfig.cache
+/Users/anton/Programmering/Fullstackutbildning/C#/StaffRegistry/StaffRegistry/obj/Debug/net9.0/ref/StaffRegistry.dll
